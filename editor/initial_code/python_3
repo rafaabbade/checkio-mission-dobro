@@ -11,9 +11,9 @@ print(dobro(n))
 assert dobro(2) == 4
     
 # testa a função com n sendo negativo
-assert soma(-3) == -6
+assert dobro(-3) == -6
     
 # testa a função com zero como parâmetro
-assert soma(0) == 0
+assert dobro(0) == 0
     
 print("Seu código passou pelos testes, clique em Check para avançar!")
