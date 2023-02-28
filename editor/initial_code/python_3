@@ -4,7 +4,7 @@ def dobro(n):
 
 
 print("Example:")
-print(dobro(n))
+print(dobro(4))
 
 # As funções assert são utilizadas para verificar se o resultado da função chamada é o esperado
 # testa a função com n sendo positivo
